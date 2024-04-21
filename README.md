@@ -1,2 +1,2 @@
 # athletic_sales_analysis
-Module 5 Challenge: This challenge evaluates athletic apparel sales data. Completed partially in collaboration with an EdX tutor. 
+This challenge uses Pandas dataframes and Python coding to clean, prepare, analyze, and evaluate athletic apparel sales data. Timeframes, retailers, and apparel categories that sold the most were extracted and analyzed. Completed independently and in collaboration with an EdX tutor. 
